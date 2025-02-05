@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+}
+
+body {
+  background-color: rgb(27, 27, 27);
+  color: white;
+}
+
+h1 {
+}
+
+p {
+}
+
+.p_small {
+}
+
+.p_tag {
+}
+.cta_primary {
+}
+
+.cta_secondary {
+}
